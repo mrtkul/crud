@@ -47,7 +47,12 @@ function App() {
         {!todos && <Loader />}
 
         {todos?.map((todo) => (
-          <ListItem key={todo.id} todo={todo} setTodos={setTodos} />
+          <ListItem
+            key={todo.id}
+            todos={todos}
+            todo={todo}
+            setTodos={setTodos}
+          />
         ))}
       </ul>
       <div className="d-flex justify-content-between my-5">

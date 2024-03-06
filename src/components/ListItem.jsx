@@ -5,7 +5,7 @@ import { useState } from "react";
 import Content from "./Content";
 import EditMode from "./EditMode";
 
-const ListItem = ({ todo, setTodos }) => {
+const ListItem = ({ todos, todo, setTodos }) => {
   const [isEditMode, setIsEditMode] = useState(false);
 
   const handleEdit = (e) => {

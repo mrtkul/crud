@@ -2,14 +2,14 @@
   "todos": [
     {
       "id": "016f7b5c-1ef0-4894-8cbb-194720aa6947",
-      "title": "q",
-      "status": "Varsayılan",
+      "title": "qsc",
+      "status": "important",
       "date": "06.03.2024"
     },
     {
       "id": "f1e1ec63-5069-4b4b-9045-78f3aac4f346",
-      "title": "q",
-      "status": "Varsayılan",
+      "title": "qcs",
+      "status": "job",
       "date": "06.03.2024"
     },
     {
@@ -62,8 +62,8 @@
     },
     {
       "id": "6566a000-dd0f-4d27-86d8-e191ad2c2ecf",
-      "title": "q",
-      "status": "Varsayılan",
+      "title": "qnh",
+      "status": "default",
       "date": "06.03.2024"
     },
     {
